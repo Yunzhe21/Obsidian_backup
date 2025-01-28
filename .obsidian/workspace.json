@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "82519c0ac54142d5",
@@ -181,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/Group Theory/Solvability.md"
+                "file": "Proofs & Attachments/Proofs (Algebra)/Solvability (Proof).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Solvability"
+              "title": "Outline of Solvability (Proof)"
             }
           },
           {
