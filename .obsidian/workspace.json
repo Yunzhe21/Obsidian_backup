@@ -11,14 +11,15 @@
             "id": "957f4fc5901a641c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Proofs & Attachments/Proofs (Algebra)/Solvability (Proof).md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Solvability (Proof)"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
@@ -119,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82519c0ac54142d5",
@@ -181,11 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Proofs & Attachments/Proofs (Algebra)/Solvability (Proof).md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Solvability (Proof)"
+              "title": "Outline"
             }
           },
           {
@@ -219,8 +217,8 @@
   },
   "active": "35047b8749ed942d",
   "lastOpenFiles": [
-    "test file.md",
     "Proofs & Attachments/Proofs (Algebra)/Solvability (Proof).md",
+    "test file.md",
     "Algebra/Group Theory/Solvability.md",
     "untitled folder",
     "Algebra/Group Theory/003 Normal Subgroup.md",
