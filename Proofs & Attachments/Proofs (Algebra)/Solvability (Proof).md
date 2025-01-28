@@ -27,4 +27,3 @@ To prove the second statement, use the [[009 Group Action#^c623d1|class formula]
 
 ---
 
-This is a test test test test 
