@@ -1,0 +1,7 @@
+
+By derivative of cross product, $\dot{\textbf{M}}=[\dot{\textbf{r}}, \dot{\textbf{r}}]+[\textbf{r}, \dot{\textbf{r}}]$. Since the field is central, $\ddot{\textbf{r}}$ and $\textbf{r}$ are colinear. Therefore $\dot{\textbf{M}}=0$, meaning that angular momentum is conservative. Also, $\langle\textbf{M}, \textbf{r}\rangle = \langle[\textbf{r}, \dot{\textbf{r}}], \textbf{r}\rangle =0$ . Therefore $\textbf{r}(t)\perp \textbf{M}$, and since $\textbf{M}$ is constant, all orbits are perpendicular to $\textbf{M}$. ^b75692
+
+---
+
+Vectors $\textbf{e}_{r}$ and $\textbf{e}_{\varphi}$ rotates with angular velocity $\dot{\varphi}$, which means that $\dot{\textbf{e}}_{r}=\dot{\varphi}\textbf{e}_{\varphi}$ and $\dot{\textbf{e}}_{\varphi}=-\dot{\varphi}\textbf{e}_{r}$ (this needs further illustrarion). Differentiaing the eqaulity $\textbf{r}=r\textbf{e}_{r}$ gives us $\dot{\textbf{r}}=\dot{r}\textbf{e}_{r}+r\dot{\textbf{e}}_{r}=\dot{r}\textbf{e}_{r}+r\dot{\varphi}\textbf{e}_{\varphi}$ 
+Consequently, the angular momentum is $\textbf{M}=[\textbf{r}, \dot{\textbf{r}}]=[\textbf{r}, \dot{r}\textbf{e}_{r}]+[\textbf{r}, r\dot{\varphi}\textbf{e}_{\varphi}]=r^{2}\dot{\varphi}[\textbf{e}_{r}, \textbf{e}_{\varphi}]$ 

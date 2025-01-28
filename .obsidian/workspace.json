@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "535488976fe54d72",
+    "type": "split",
+    "children": [
+      {
+        "id": "916dee181a6872cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "957f4fc5901a641c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proofs & Attachments/Proofs (Algebra)/Solvability (Proof).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solvability (Proof)"
+            }
+          },
+          {
+            "id": "5bd6b264bde4235a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Group Theory/Solvability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solvability"
+            }
+          },
+          {
+            "id": "82ebd439c03650c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Group Theory/003 Normal Subgroup.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "003 Normal Subgroup"
+            }
+          },
+          {
+            "id": "8270afd9566c6a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algebra/Group Theory/009 Group Action.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "009 Group Action"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8abc9541dd9e078",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8869c884f9c28cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc1022d9b013746",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b6964e284bd5b663",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "959526d3eeed0099",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82519c0ac54142d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "549e33f556037ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aa635dba5cf43b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algebra/Group Theory/Solvability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Solvability"
+            }
+          },
+          {
+            "id": "d779f92157a241fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algebra/Ring Theory/002 Invertibility and Polynomial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 002 Invertibility and Polynomial"
+            }
+          },
+          {
+            "id": "abeb5f28db6bd773",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3d0f2f3fe9c0b94c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algebra/Group Theory/Solvability.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Solvability"
+            }
+          },
+          {
+            "id": "35047b8749ed942d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "957f4fc5901a641c",
+  "lastOpenFiles": [
+    "untitled folder",
+    "Algebra/Group Theory/Solvability.md",
+    "Proofs & Attachments/Proofs (Algebra)/Solvability (Proof).md",
+    "Algebra/Group Theory/003 Normal Subgroup.md",
+    "Algebra/Group Theory/009 Group Action.md",
+    "Algebra/Group Theory/007 Second Isomorphism Theorem.md",
+    "Algebra/Group Theory/011 Sylow Theorem.md",
+    "Algebra/Group Theory/008 Chinese Remainder Theorem.md",
+    "Algebra/Group Theory/006 Subgroup of Quotient.md",
+    "Algebra/Group Theory/004 Quotient Group.md",
+    "Algebra/Ring Theory/001 Ring.md",
+    "Algebra/Group Theory/010 Symmetric Group.md",
+    "Algebra/Ring Theory/002 Invertibility and Polynomial.md",
+    "Algebra/Group Theory/Sylow Theorems.canvas",
+    "Proofs & Attachments/Proofs (Algebra)/Sylow Theorem (Proof).md",
+    "Proofs & Attachments/Proofs (Algebra)/Symmetric Group (Proof).md",
+    "Algebra/Group Theory/005 First Isomorphism Theorem.md",
+    "Welcome.md",
+    "Algebra/Group Theory/002 Morphism between Groups.md",
+    "Proofs & Attachments/Proofs (Algebra)/Quotient Group (Proof).md",
+    "Algebra/Group Theory/001 Group.md",
+    "Analysis/Analysis I/03 Fourier Series/003 Pointwise Convergence of Fourier Series.md",
+    "Analysis/Analysis I/03 Fourier Series/002 Fourier Series.md",
+    "Linear Algebra/Part II/002 Inner Product.md",
+    "Linear Algebra/Part II/001 Orthogonality.md",
+    "Analysis/Analysis II (Multivariable)/Extrema.md",
+    "Analysis/Analysis II (Multivariable)/Manifold.md",
+    "Proofs & Attachments/Attachments/屏幕截图 2023-12-19 160149.png",
+    "Proofs & Attachments/Attachments/Pasted image 20231221104313.png",
+    "Proofs & Attachments/Attachments/Pasted image 20240515154129.png",
+    "Proofs & Attachments/Attachments/ee53abfe1b60f965ca51b27ba4969ef.jpg",
+    "Proofs & Attachments/Attachments/cdb4ac4bec0c7da5c781b1d9bcbc430.jpg",
+    "Proofs & Attachments/Attachments/f589982cc8add4bcdf5503b2d648a37.jpg",
+    "Proofs & Attachments/Attachments/35c619116e8b0383f03d085c520b0a8.jpg",
+    "Proofs & Attachments/Attachments/9f0ca99a25b93649bd7c8c63002d3bd.jpg",
+    "Analysis/Analysis I/00 Metric Space",
+    "Analysis/Analysis I/03 Fourier Series",
+    "Analysis/Analysis I/01 Riemann Integral",
+    "Analysis/Analysis I/02 Sequence and Series of functions",
+    "Analysis/Analysis I",
+    "Algebra/Ring Theory",
+    "Algebra/Group Theory",
+    "Linear Algebra/Part II",
+    "Proofs & Attachments/Attachments",
+    "Proofs & Attachments/Proofs (ODE)"
+  ]
+}
