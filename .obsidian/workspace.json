@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "0d72e8926c8ada0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test file.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test file"
+            }
+          },
+          {
             "id": "5bd6b264bde4235a",
             "type": "leaf",
             "state": {
@@ -63,7 +77,8 @@
               "title": "009 Group Action"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "957f4fc5901a641c",
+  "active": "0d72e8926c8ada0a",
   "lastOpenFiles": [
-    "Algebra/Group Theory/Solvability.md",
     "Proofs & Attachments/Proofs (Algebra)/Solvability (Proof).md",
+    "test file.md",
+    "Algebra/Group Theory/Solvability.md",
     "untitled folder",
     "Algebra/Group Theory/003 Normal Subgroup.md",
     "Algebra/Group Theory/009 Group Action.md",
