@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,9 +218,9 @@
   },
   "active": "957f4fc5901a641c",
   "lastOpenFiles": [
-    "untitled folder",
     "Algebra/Group Theory/Solvability.md",
     "Proofs & Attachments/Proofs (Algebra)/Solvability (Proof).md",
+    "untitled folder",
     "Algebra/Group Theory/003 Normal Subgroup.md",
     "Algebra/Group Theory/009 Group Action.md",
     "Algebra/Group Theory/007 Second Isomorphism Theorem.md",
@@ -262,7 +261,6 @@
     "Algebra/Ring Theory",
     "Algebra/Group Theory",
     "Linear Algebra/Part II",
-    "Proofs & Attachments/Attachments",
-    "Proofs & Attachments/Proofs (ODE)"
+    "Proofs & Attachments/Attachments"
   ]
 }
